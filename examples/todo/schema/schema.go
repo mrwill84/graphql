@@ -3,7 +3,7 @@ package schema
 import (
 	"math/rand"
 
-	"github.com/graphql-go/graphql"
+	"github.com/mrwill84/graphql"
 )
 
 var TodoList []Todo

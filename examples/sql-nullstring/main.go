@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"encoding/json"
 	"fmt"
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/language/ast"
+	"github.com/mrwill84/graphql"
+	"github.com/mrwill84/graphql/language/ast"
 	"log"
 )
 
